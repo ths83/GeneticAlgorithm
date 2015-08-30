@@ -1,5 +1,5 @@
 This is an University Project for Bachelor , done with two other classmates for the year 2015.
-The PDF Subject is on the repository == > French only .
+The PDF Subject is available here https://drive.google.com/open?id=0B-f-2AvEqjJyfkxqSWx2RU9aMUVNRHgwRFVWWmI2dGF5RnV3Q3QyTng0VmtRUWxRazZ0ZzA
 BlackBoard Interface is in French.
 
 Languages : C++ , Java.
